@@ -1,0 +1,39 @@
+Contigo,9.7
+Contigo,6.5
+Contigo,5.1
+Contigo,8.8
+Contigo,7.8
+Contigo,9.9
+Contigo,10.3
+JA Ramen,10.1
+JA Ramen,7.2
+JA Ramen,7.3
+JA Ramen,8.2
+JA Ramen,7.9
+JA Ramen,8.9
+JA Ramen,7.1
+JA Ramen,9.4
+JA Ramen,9
+JA Ramen,8.7
+Ciao Down Pizza Studio,6.3
+Ciao Down Pizza Studio,7.3
+Ciao Down Pizza Studio,5.9
+Ciao Down Pizza Studio,6.6
+Ciao Down Pizza Studio,9
+Sushi on Oracle,7.4
+Sushi on Oracle,8.1
+Sushi on Oracle,8.7
+Sushi on Oracle,6.3
+Sushi on Oracle,6.8
+Sushi on Oracle,7.2
+Sushi on Oracle,7.5
+Sushi on Oracle,7.1
+Sushi on Oracle,8.5
+Bottega Michelangelo,7.6
+Bottega Michelangelo,6.7
+Bottega Michelangelo,9.4
+Bottega Michelangelo,9.6
+Bottega Michelangelo,8.6
+Bottega Michelangelo,9.8
+Bottega Michelangelo,9.6
+Bottega Michelangelo,6.4
